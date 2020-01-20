@@ -1,0 +1,33 @@
+{
+    "events":[
+        {
+            "ID":"1",
+            "Name":"Shafi",
+            "DOB": "april 28 1998",
+            "College":"Teams IT park",
+            "map" :"shafi.jpg"
+        },
+        {
+            "ID":"2",
+            "Name":"Anna",
+            "DOB": "march 31 1998",
+            "College":"Malabar college",
+            "map" :"anna.jpg"
+        },
+        {
+            "ID":"3",
+            "Name":"Dona",
+            "DOB": "september 3 1996",
+            "College":"Amal jyothi",
+            "map" :"anna.jpg"
+        },
+        {
+            "ID":"4",
+            "Name":"Elizabeth",
+            "DOB": "december 12 1996",
+            "College":"Amal jyothi",
+            "map" :"anna.jpg"
+        }
+    ]
+    
+}
